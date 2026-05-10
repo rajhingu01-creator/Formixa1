@@ -1,0 +1,32 @@
+# Formixa
+
+## What is Formixa?
+
+Formixa is an AI-powered tool that helps people fill out the DS-160 US nonimmigrant visa application form. It converts plain-English answers into a correctly formatted DS-160 reference PDF document.
+
+## What does Formixa do?
+
+1. Presents users with ~50 plain-English questions covering all DS-160 sections: personal information, passport details, travel plans, family, work history, and security questions.
+2. Uses AI (Groq Llama 3.3 70B) to map answers into the correct DS-160 field format — including proper date formats, country names, and legal phrasing.
+3. Generates a complete, print-ready DS-160 reference PDF that users can refer to while filing the official form at ceac.state.gov.
+
+## Who is Formixa for?
+
+Anyone applying for a US nonimmigrant visa who wants to avoid mistakes and save time on the DS-160 application form. This includes tourist (B-1/B-2), student (F-1), and work visa (H-1B) applicants.
+
+## How much does it cost?
+
+$25 USD, one-time payment via PayPal. No subscription, no account required.
+
+## Important disclaimer
+
+Formixa generates a reference document only. The official DS-160 form must still be submitted electronically at https://ceac.state.gov. Formixa is not affiliated with the US Department of State.
+
+## URL
+
+https://formixa.com
+
+## Contact
+
+Support form: https://formixa.com/#support
+Discord: https://discord.com/users/dotseyu
