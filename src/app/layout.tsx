@@ -6,6 +6,11 @@ const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL ?? "https://formixa.com";
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
+  icons: {
+    icon: [
+      { url: "/favicon.svg", type: "image/svg+xml" },
+    ],
+  },
   title: {
     default: "Formixa — AI DS-160 Visa Form Assistant",
     template: "%s | Formixa",
